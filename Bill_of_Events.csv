@@ -1,0 +1,7 @@
+EBill_Name,EBill_Type,EBill_Cost,Ebill_total_miles,EBill_Price_per_mile,EBill_Weight,EBill_Criticality,EBill_Priority
+b01,type1,200,20,50,100,2,3
+b02,type2,400,10,60,200,3,4
+b03,type1,300,30,70,300,1,2
+b04,type2,400,20,40,200,3,3
+b05,type1,500,40,60,100,4,2
+b06,type3,600,30,80,400,2,1
